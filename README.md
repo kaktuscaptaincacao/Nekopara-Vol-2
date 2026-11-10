@@ -196,4 +196,4 @@ This repository serves as the official landing page for NEKOPARA Vol. 2. The sof
 **Get the most recent version of NEKOPARA Vol. 2 today!**
 
 ---
-**Last updated:** 2026-11-10 13:08:49 UTC
+**Last updated:** 2026-11-10 20:39:38 UTC
